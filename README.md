@@ -1,15 +1,17 @@
 # mock-task-service
 
 This project acts as a basic CRUD server to accompany the task-service UI project. It allows the UI project to create, read, update, and delete tasks.
+The UI project could can be found [here](https://gitlab.com/william.andrade/task-manager). 
+Please follow the set up instructions in this repository before starting the UI project. 
 
 
-## Available Scripts
+## Set Up Instructions and Commands
 
-In the project directory, you can run:
+In your terminal, navigate to the mock-task-service directory, and from the root folder run:
 
-##### `$ npm start`
+- `npm install` - installs all project dependencies. 
 
-This will start the server and have it listen on port 3000. This is the port the UI project hits. 
+- `npm start` - This will start the server and have it listen on port 3000. This is the port the UI project hits. 
 
 ## Usage and Functionality
 
