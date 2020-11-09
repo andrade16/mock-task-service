@@ -1,1 +1,58 @@
-[{"id":"89177f50-3919-418a-af06-5e28a72b25e6","title":"Take out the Zebra","description":"Bring a shovel this time","dueDate":"2020-11-19","status":"New","updatedAt":"2020-11-09T05:24:21.009Z","createdAt":"2020-11-09T04:20:53.542Z"},{"id":"c8b32076-b8ce-4d40-8c52-663333308dd8","title":"Take out the dog","description":"Need to do this before trash stinks.","dueDate":"2020-11-27","status":"Completed","updatedAt":"2020-11-09T05:24:27.574Z","createdAt":"2020-11-09T04:35:57.406Z"},{"id":"eb5e8339-4b85-44bb-b439-064e5cdd7ca9","title":"Feed the walrus","description":"Bring a bucket of fish this time","dueDate":"2020-11-08","status":"Completed","updatedAt":"2020-11-09T05:26:28.427Z","createdAt":"2020-11-09T04:53:03.963Z"}]
+[
+  {
+    "id": "aed88e0a-15b4-46ef-b808-a3a8dc3141fa",
+    "title": "Take Rocky out",
+    "description": "Need to take Rocky out before I go on this long bike ride",
+    "dueDate": "2020-11-18",
+    "status": "New"
+  },
+  {
+    "id": "59cda48e-addb-4669-b663-11bce3e96ed9",
+    "title": "Take the Zebra on a walk",
+    "description": "Need to walk the zebra around it's pen. Bring a shovel for it's poop this time",
+    "dueDate": "2020-11-23",
+    "status": "Completed"
+  },
+  {
+    "id": "16a30592-dd7f-4797-9944-96b0cd1fd31c",
+    "title": "Feed the walrus",
+    "description": "Remember to bring an extra bucket of fish with me",
+    "dueDate": "2020-11-25",
+    "status": "New"
+  },
+  {
+    "id": "16a30592-dd7f-4797-9944-96b0cd1fd31c",
+    "title": "Play with the Monkeys",
+    "description": "Bring some bananas with me, they like those",
+    "dueDate": "2020-11-18",
+    "status": "Completed"
+  },
+  {
+    "id": "16a30592-dd7f-4797-9944-96b0cd1fd31c",
+    "title": "Need to feed the lions",
+    "description": "I think i'll get someone else to do this",
+    "dueDate": "2020-10-16",
+    "status": "New"
+  },
+  {
+    "id": "16a30592-dd7f-4797-9944-96b0cd1fd31c",
+    "title": "Remeber to buy rock climbing gear before Utah trip",
+    "description": "Look on amazon, I hear they're having a sale",
+    "dueDate": "2020-11-01",
+    "status": "Completed"
+  },
+  {
+    "id": "16a30592-dd7f-4797-9944-96b0cd1fd31c",
+    "title": "Go to the DMV to get a new licence and become an official CA resident",
+    "description": "Remeber to bring passport and at least two support docs",
+    "dueDate": "2020-11-25",
+    "status": "New"
+  },
+  {
+    "id": "16a30592-dd7f-4797-9944-96b0cd1fd31c",
+    "title": "Call Mom, it's her birthday today",
+    "description": "testing new task creation",
+    "dueDate": "2020-09-26",
+    "status": "Completed"
+  }
+]

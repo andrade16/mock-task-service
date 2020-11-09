@@ -6,7 +6,7 @@ const fs = require('fs');
 const app = express()
 const port = 3000
 
-app.use(cors()) // allow CORS
+app.use(cors()) // allow cors
 app.use(bodyParser.json()) // support json encoded bodies
 app.use(bodyParser.urlencoded({extended: true})) // support encoded bodies
 
@@ -59,7 +59,7 @@ app.put("/api/tasks/update/:id", (request, response) => {
         }
         console.log(`${updatedTask.title} was updated...`);
     });
-    response.status(204)
+    response.status(200);
     response.send(tasks);
 })
 
@@ -84,7 +84,7 @@ app.delete("/api/tasks/delete/:id", (request, response) => {
         }
         console.log('task was deleted...');
     });
-    response.status(204);
+    response.status(200);
     response.send(tasks)
 });
 
