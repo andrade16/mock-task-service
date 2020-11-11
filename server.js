@@ -6,6 +6,9 @@ const fs = require('fs');
 const app = express()
 const port = 3000
 
+const VALID_EMAIL = 'test@test.com';
+const VALID_PASSWORD = 'password';
+
 app.use(cors()) // allow cors
 app.use(bodyParser.json()) // support json encoded bodies
 app.use(bodyParser.urlencoded({extended: true})) // support encoded bodies
@@ -105,4 +108,25 @@ app.post("/api/tasks/create-new/", (request, response) => {
 
     response.status(201)
     response.send(tasks);
+});
+
+
+app.post("/user/login", (request, response) => {
+
+    const requestBody = request.body;
+    const email = requestBody.email ? requestBody.email : '';
+    const password = requestBody.password ? requestBody.password : '';
+
+
+    if (email === VALID_EMAIL && password === VALID_PASSWORD) {
+        const authenticatedObj = {user: email, message: 'Authenticated!'}
+        response.status(200);
+        response.send(JSON.stringify(authenticatedObj));
+    } else {
+        response.status(403);
+        const invalidObj = {data: null, message: 'Invalid Credentials'}
+        response.send(JSON.stringify(invalidObj));
+    }
+
+
 });
