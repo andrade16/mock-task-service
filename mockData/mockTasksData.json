@@ -1,100 +1,37 @@
 [
   {
-    "id": "3ffa5c43-5f74-41d8-800d-a7f09891d4e3",
-    "title": "Need to take Rocky out",
-    "description": "Need to take the dog out before my hiking trip ",
-    "dueDate": "2020-11-11",
-    "status": "Not completed"
-  },
-  {
     "id": "3b1494e3-9403-4903-870e-19c0b8a04292",
     "title": "Call Mom to wish her a happy birthday",
-    "description": "Need to call Mom to wish her a happy birthday. Remember to ask her what she wants as a gift",
-    "dueDate": "2020-11-15",
-    "status": "Completed"
+    "description": "updating the task updating the task updating the task updating the task updating the task updating the task updating the task updating the task updating the task updating the task updating the task updating the task updating the task updating the task updating the task updating the task updating the task updating the task updating the task updating the task updating the task updating the task updating the task updating the task updating the task updating the task updating the task updating the t",
+    "dueDate": "2020-11-18",
+    "status": "Not completed"
   },
   {
     "id": "0ec947fc-cfa2-43fd-b256-89e7a2c0cf05",
     "title": "Call Dad",
-    "description": "Call dad to figure out when he's visiting SF",
-    "dueDate": "2020-11-17",
+    "description": "Call dad to figure out when he's visiting SFCall dad to figure out when he's visiting SF. Might be worth to just wait until after Christmas. ",
+    "dueDate": "2020-11-25",
     "status": "Completed"
-  },
-  {
-    "id": "97e59d2f-c40f-4294-8143-375f348798fd",
-    "title": "Feed the Walrus",
-    "description": "Remember to bring a bucket of fish this time. Last time I could tell they were pretty annoyed I forgot the their food. ",
-    "dueDate": "2020-11-20",
-    "status": "Not completed"
-  },
-  {
-    "id": "1bc32d3f-f400-44b0-a617-605c7cb1d284",
-    "title": "Take the horse out for a walk around the stable",
-    "description": "Also need to rake the mess it made",
-    "dueDate": "2020-11-28",
-    "status": "Not completed"
   },
   {
     "id": "564a56ac-9764-46b7-8be3-2cb35b8214cb",
     "title": "Play with the Monkeys",
     "description": "Bring bananas this time, they like those",
-    "dueDate": "2020-11-23",
-    "status": "Completed"
-  },
-  {
-    "id": "bb76cd72-0070-4d31-9720-5d8952943227",
-    "title": "",
-    "description": "",
-    "dueDate": "",
-    "status": "Not completed"
-  },
-  {
-    "id": "ba4582bf-1998-4a66-8cfa-c69ad8ecf99a",
-    "title": "",
-    "description": "",
-    "dueDate": "",
-    "status": "Not completed"
-  },
-  {
-    "id": "24283b80-c981-42b7-855e-5358be261c62",
-    "title": "",
-    "description": "",
-    "dueDate": "",
-    "status": "Not completed"
-  },
-  {
-    "id": "05863a48-0716-467d-a458-bf6a1adf342a",
-    "title": "",
-    "description": "",
-    "dueDate": "",
-    "status": "Not completed"
-  },
-  {
-    "id": "7626771b-ec5c-46d1-8d48-341c0f764b73",
-    "title": "",
-    "description": "",
-    "dueDate": "",
-    "status": "Not completed"
-  },
-  {
-    "id": "43f01efb-fae2-44b5-a3da-a5071f86c3d4",
-    "title": "",
-    "description": "",
-    "dueDate": "",
-    "status": "Not completed"
-  },
-  {
-    "id": "84a39d45-409e-4c44-a500-07d005ad5075",
-    "title": "",
-    "description": "",
-    "dueDate": "",
+    "dueDate": "2020-11-26",
     "status": "Not completed"
   },
   {
     "id": "d4964ea1-a28d-49ae-bc68-4e40876777d6",
-    "title": "Feed the pigs",
-    "description": "Need to feed the pigs again, make sure to wear my boots",
-    "dueDate": "2020-11-20",
+    "title": "Need to feed the pigs again",
+    "description": "Make sure to bring my boots this time. It got real messy last time I did this.    ",
+    "dueDate": "2020-11-27",
     "status": "Not completed"
+  },
+  {
+    "id": "88087781-8bcf-4e8b-ae2b-552baa546c6f",
+    "title": "Feed the tigers",
+    "description": "Remember to wear a protective suit this time",
+    "dueDate": "2020-11-26",
+    "status": "Completed"
   }
 ]
